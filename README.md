@@ -9,7 +9,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/alfiansx/alfbot
+> git clone https://github.com/RYANXP/RYANXPBOT
 ```
 
 ## Install the dependencies:
@@ -17,7 +17,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd alfbot
+> cd RYANXPBOT
 > bash install.sh
 ```
 
@@ -56,11 +56,11 @@ you've just cloned!!
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
 
-## Special Thanks to
+## creditos
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar/termux-wabot`](https://github.com/MhankBarBar/termux-wabot)
 * [`Toby`](https://github.com/TobyG74)
 * [`IbnuSyawall`](https://github.com/ibnusyawall)
 
-### Donate
-* [`Saweria`](https://saweria.co/donate/aditiaalfians)
+### inscreva se 
+* [`YouTube`](https://youtube.com/channel/UCmZTLIcw_C0Mh7J1DyweqNQ)
